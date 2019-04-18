@@ -50,8 +50,8 @@ Notes:
   * Details of arguments are described below
   * Choose a suitable project name (it can h.
   * The default GitLab group will be your personal namespace. This assumes your username is FirstnameSecondname (if not, you should change this). You should also change this if you want to store your project under a GitLab group (such as CMIC, WEISS, RVM or GIFT-Surg).
-  * Modify the URL if you are not putting the prokect on WeissLab
-  * For most questions you can chose the defaults.
+  * Modify the URL if you are not putting the project on WeissLab
+  * For most questions you can chosoe the defaults.
   * Arguments can also be specified in configuration files — see the `Cookiecutter`_  documentation.
 
 
